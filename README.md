@@ -1,2 +1,2 @@
 # CS440-work
-CS 440 Projects
+Contains all CS 440 - Aritifical Intelligence Projects
